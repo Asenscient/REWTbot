@@ -1,0 +1,5 @@
+04-12-2015 @ 15:44:36Z [init.js#132] (loadScript, ./commands/uptime.js) InternalError: missing ; before statement (uptime.js#7)
+04-12-2015 @ 16:52:23Z [init.js#132] (loadScript, ./commands/addCommand.js) InternalError: missing ) after argument list (addCommand.js#49)
+04-12-2015 @ 16:52:23Z [init.js#132] (loadScript, ./commands/uptime.js) InternalError: missing ; before statement (uptime.js#7)
+04-12-2015 @ 17:07:05Z [init.js#132] (loadScript, ./commands/addCommand.js) InternalError: missing ) after argument list (addCommand.js#49)
+04-12-2015 @ 17:07:05Z [init.js#132] (loadScript, ./commands/uptime.js) InternalError: missing ; before statement (uptime.js#7)

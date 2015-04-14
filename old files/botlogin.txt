@@ -1,0 +1,10 @@
+user=rewtbot
+oauth=oauth:xeyeft523kzroc24xe36lba36t4519
+apioauth=
+clientid=
+channel=leahloveschief
+owner=asenscient
+baseport=25000
+hostname=
+port=0
+msglimit30=0.0

@@ -1,0 +1,28 @@
+04-12-2015 @ 15:44:35Z [init.js#410] Initializing...
+04-12-2015 @ 15:44:36Z [init.js#596] Bot Online
+04-12-2015 @ 15:49:23Z [addCommand.js#50] DirkWeezil added the command !donate with message: "You can donate at https://streamtip.com/twitch/leahloveschief"
+04-12-2015 @ 16:00:06Z [chatModerator.js#1199] Automatic repeat punishment triggered by mattlive101. Longest repeat sequence: 7. Total repeat sequences: 17. Message: Leah we will all play for youuuuuuuyuuyyyyu
+04-12-2015 @ 16:00:07Z [misc.js#335] Received a purge/timeout/ban notification on user mattlive101 from jtv
+04-12-2015 @ 16:00:08Z [misc.js#335] Received a purge/timeout/ban notification on user mattlive101 from jtv
+04-12-2015 @ 16:07:49Z [chatModerator.js#1199] Automatic repeat punishment triggered by themsksis. Longest repeat sequence: 11. Total repeat sequences: 35. Message: SSSSSSSSSSSCCCCCCCRRRRRRUUUUUUBBBBB
+04-12-2015 @ 16:07:51Z [misc.js#335] Received a purge/timeout/ban notification on user themsksis from jtv
+04-12-2015 @ 16:07:52Z [misc.js#335] Received a purge/timeout/ban notification on user themsksis from jtv
+04-12-2015 @ 16:08:35Z [addCommand.js#159] Asenscient set the command !hype to allow all
+04-12-2015 @ 16:08:42Z [addCommand.js#148] Asenscient set the command !hype to mods only
+04-12-2015 @ 16:19:03Z [chatModerator.js#1199] Automatic repeat punishment triggered by crotasarmy. Longest repeat sequence: 15. Total repeat sequences: 15. Message: <3 <3 <3 <3 <3 <3 <3 <3 <3 <3 <3 <3 <3 <3 <3 <3
+04-12-2015 @ 16:19:03Z [misc.js#335] Received a purge/timeout/ban notification on user crotasarmy from jtv
+04-12-2015 @ 16:19:05Z [misc.js#335] Received a purge/timeout/ban notification on user crotasarmy from jtv
+04-12-2015 @ 16:40:14Z [permissions.js#200] Asenscient changed leahloveschief's group to Moderator
+04-12-2015 @ 16:40:18Z [misc.js#335] Received a purge/timeout/ban notification on user mrjafoole15 from jtv
+04-12-2015 @ 16:50:10Z [addCommand.js#159] Asenscient set the command !play to allow all
+04-12-2015 @ 16:52:22Z [init.js#410] Initializing...
+04-12-2015 @ 16:52:23Z [init.js#596] Bot Online
+04-12-2015 @ 17:05:55Z [misc.js#335] Received a purge/timeout/ban notification on user joet_99 from jtv
+04-12-2015 @ 17:05:55Z [misc.js#335] Received a purge/timeout/ban notification on user joet_99 from jtv
+04-12-2015 @ 17:06:35Z [permissions.js#200] Asenscient changed Jag3Dagster's group to Moderator
+04-12-2015 @ 17:07:05Z [init.js#410] Initializing...
+04-12-2015 @ 17:07:05Z [init.js#596] Bot Online
+04-12-2015 @ 17:07:19Z [chatModerator.js#1154] Automatic link punishment triggered by yoleswag999. Link: https://soundcloud.com/the-collective-ii/dream-of-mind-soure-and-tubo-prod-by-antilophobia      Message: Check this out if you can haha :) https://soundcloud.com/the-collective-11/dream-of-mind-soure-and-tubo-prod-by-antilophobia
+04-12-2015 @ 17:07:19Z [chatModerator.js#124] >> Strike 1 >> Purged
+04-12-2015 @ 17:07:20Z [misc.js#335] Received a purge/timeout/ban notification on user yoleswag999 from jtv
+04-12-2015 @ 17:07:21Z [misc.js#335] Received a purge/timeout/ban notification on user yoleswag999 from jtv

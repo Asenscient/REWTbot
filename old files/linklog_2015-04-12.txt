@@ -1,0 +1,4 @@
+04-12-2015 @ 15:45:49Z [nightbot] Matched link on linkPattern: https://www.bungie.net/en/clan/detail/9i99s2
+04-12-2015 @ 15:49:23Z [dirkweezil] Matched link on linkPattern: https://streamtip.com/twitch/leahloveschief
+04-12-2015 @ 15:50:06Z [dirkweezil] Matched link on linkPattern: https://streamtip.com/twitch/leahloveschief
+04-12-2015 @ 17:07:19Z [yoleswag999] Matched link on linkPattern: https://soundcloud.com/the-collective-ii/dream-of-mind-soure-and-tubo-prod-by-antilophobia
